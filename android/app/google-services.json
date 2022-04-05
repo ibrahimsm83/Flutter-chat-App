@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "668763832563",
+    "firebase_url": "https://fcronin-61dca-default-rtdb.firebaseio.com",
+    "project_id": "fcronin-61dca",
+    "storage_bucket": "fcronin-61dca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668763832563:android:5094b8e5832719eaf6b786",
+        "android_client_info": {
+          "package_name": "com.fcroninchat.fcroninchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668763832563-jdoc5an2pua8c4rg607ooctkbgio36sv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fcroninchat.fcroninchat",
+            "certificate_hash": "d7065223060824e7adf6507dafac59a0b74f3097"
+          }
+        },
+        {
+          "client_id": "668763832563-jkbqo2nqimbhe1ml1avtmaa1ke7i5g16.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fcroninchat.fcroninchat",
+            "certificate_hash": "a36bc6e4325b5e914e0853cac791f27b9a785bd7"
+          }
+        },
+        {
+          "client_id": "668763832563-p1nauapd8aasjuhm490bbbm8u2p0s2nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTBjGJPJxPppB_mOjc0GHYjYqL2-5uIHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668763832563-p1nauapd8aasjuhm490bbbm8u2p0s2nr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
